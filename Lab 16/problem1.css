@@ -1,0 +1,124 @@
+* {
+    background-color: black;
+    color: white;
+}
+h2 {
+    color: white;
+}
+ul {
+    color: white;
+}
+#red{
+    background-color: red;
+    width: 50px;
+    margin: 5px;
+}
+#orange{
+   background-color: orange;
+    width: 50px;
+    margin: 5px;
+}
+#yellow{
+   background-color: yellow;
+    width: 50px;
+    margin: 5px;
+}
+#green{
+   background-color: green;
+    width: 50px;
+    margin: 5px;
+}
+#blue{
+   background-color: blue;
+    width: 50px;
+    margin: 5px;
+}
+}
+#one{
+    width: 95px;
+    border-top-style: solid;
+    border-width: 10px; 
+    border-color: lightgrey;
+    margin: 10px;
+}
+#two{
+    width: 95px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-width: 10px; 
+    border-color: lightgrey;
+    margin: 10px;
+}
+#three{
+    width: 95px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-right-style: solid;
+    border-width: 10px; 
+    border-color: lightgrey;
+    margin: 10px;
+}
+#four{
+    width: 95px;
+    border-style: solid;
+    border-width: 10px; 
+    border-color: lightgrey;
+    margin: 10px;
+}
+.square{
+    width: 75px;
+    height: 75px;
+    margin: 5px;
+    margin-left: 1px;
+    background-color: white;
+}
+.circle2{
+    width: 75px;
+    height: 75px;
+    margin: 5px;
+    background-color: white;
+    border-radius: 50%;
+}
+.test{
+    border-top-style: solid;
+    border-top-width: 10px;
+    border-width:5px;
+    border-color: white;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    margin-left: 1px;
+}
+.test2{
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-top-width: 10px;
+    border-width:5px;
+    border-color: white;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    margin-left: 1px;
+}
+.test3{
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-right-style: solid;
+    border-top-width: 10px;
+    border-width:5px;
+    border-color: white;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    margin-left: 1px;
+}
+.test4{
+    border-style: solid;
+    border-top-width: 10px;
+    border-width:5px;
+    border-color: white;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    margin-left: 1px;
+}
