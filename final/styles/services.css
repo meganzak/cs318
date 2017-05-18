@@ -1,0 +1,102 @@
+<<<<<<< HEAD
+#serv1 {
+    background-image: url(http://www.motorcycleshopphoenix.com/wp-content/uploads/2012/10/phoenix-motorcycle-dyno.jpg);
+    background-size: 275px;
+}
+#serv2 {
+    background-image: url(http://cdnmedia.endeavorsuite.com/images/serviceIcons//icons_dark/engine.png);
+    background-size: 100%;
+}
+#serv3 {
+    background-image: url(http://www.rental-world.com/wp-content/uploads/2014/10/john.deere_.tractor.3720.rental.with_.hoe_.jpg);
+    background-size: 100%;
+}
+#serv4 {
+    background-image: url(http://cdnmedia.endeavorsuite.com/images/ThumbGenerator/Thumb.aspx?img=http:%2F%2Fcdnmedia.endeavorsuite.com%2Fimages%2Forganizationsstg%2F0cc34cc2-40ab-4497-80c5-861d381672ff%2Fcta3.jpg&v=1486534281929&w=537);
+    background-size: 100%;
+}
+.service {
+    display: inline-block;
+    margin: 20px;
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    box-shadow: 5px 5px 5px grey;
+    position: relative;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.service:hover {
+    box-shadow: 1px 1px 1px black;
+    top: 5px;
+    left: 5px;
+}
+.name {
+    font-size: 20pt;
+    font-family: sans-serif;
+    color: red;
+    text-shadow: 3px 3px 3px black;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+p {
+    position: inherit;
+    text-align: center;
+}
+.bubble {
+    text-align: center;
+    width: 100%;
+=======
+#serv1 {
+    background-image: url(http://www.motorcycleshopphoenix.com/wp-content/uploads/2012/10/phoenix-motorcycle-dyno.jpg);
+    background-size: 275px;
+}
+#serv2 {
+    background-image: url(http://cdnmedia.endeavorsuite.com/images/serviceIcons//icons_dark/engine.png);
+    background-size: 100%;
+}
+#serv3 {
+    background-image: url(http://www.rental-world.com/wp-content/uploads/2014/10/john.deere_.tractor.3720.rental.with_.hoe_.jpg);
+    background-size: 100%;
+}
+#serv4 {
+    background-image: url(http://cdnmedia.endeavorsuite.com/images/ThumbGenerator/Thumb.aspx?img=http:%2F%2Fcdnmedia.endeavorsuite.com%2Fimages%2Forganizationsstg%2F0cc34cc2-40ab-4497-80c5-861d381672ff%2Fcta3.jpg&v=1486534281929&w=537);
+    background-size: 100%;
+}
+.service {
+    display: inline-block;
+    margin: 20px;
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    box-shadow: 5px 5px 5px grey;
+    position: relative;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.service:hover {
+    box-shadow: 1px 1px 1px black;
+    top: 5px;
+    left: 5px;
+}
+.name {
+    font-size: 20pt;
+    font-family: sans-serif;
+    color: red;
+    text-shadow: 3px 3px 3px black;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+p {
+    position: inherit;
+    text-align: center;
+}
+.bubble {
+    text-align: center;
+    width: 100%;
+>>>>>>> origin/master
+}

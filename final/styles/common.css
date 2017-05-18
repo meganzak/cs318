@@ -1,0 +1,328 @@
+<<<<<<< HEAD
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: sans-serif;
+}
+header {
+    background-color: maroon;
+    color: white;
+    padding: 5px;
+    display: inline-block;
+    width: 100%;
+}
+header .label {
+    display: none;
+}
+nav {
+    background-color: darkblue;
+    color: white;
+    border-top: 1px solid white;
+}
+ul {
+    padding: 0;
+}
+.label  {
+    padding: 10px 5px;
+    display: inline-block;
+    border-right: 1px solid white;
+}
+.label:hover {
+    background-color: gray;
+    cursor: pointer;
+}
+a {
+    display: block;
+    color: white;
+    text-decoration: none;
+}
+.menu {
+    position: absolute;
+    width: 100px;
+    top: 81px;
+    height: auto;
+    background-color: grey;
+    box-shadow: 2px 2px 2px black;
+    display: none;
+}
+.menu li {
+    border-bottom: 1px solid white;
+    padding: 3px;
+}
+.menu li:last-of-type {
+    border: none;
+}
+.label:hover .menu {
+    display: block;
+}
+.menu li:hover {
+    background-color: lightgray;
+}
+
+
+.contact {
+    text-align: right;
+    position: absolute;
+    right: 0;
+    top: 50px;
+    padding-right: 20px;
+} 
+.image {
+    margin-left: 0%;
+    width: 10%;
+
+    float: left;
+}
+h1 {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    width: 80%;
+    float: left;
+}
+body {
+    margin: 0;
+}
+
+label {
+    font-size: 15pt;
+    color: white;
+    cursor: pointer;
+}
+input {
+    display: none;
+} 
+.directions { 
+/*
+    position: absolute;
+    top: 100%;
+    right: 40%;
+*/
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+footer {
+    width: 100%;
+    text-align: left;
+    padding: 20px; 
+}  
+.label  {
+    padding: 10px 5px;
+    display: inline-block;
+    border-right: 1px solid white;
+}
+.label:hover {
+    background-color: gray;
+    cursor: pointer;
+}
+.menu {
+    position: absolute;
+    width: 100px;
+    top: 81px;
+    height: auto;
+    background-color: grey;
+    box-shadow: 2px 2px 2px black;
+    display: none;
+}
+.menu li {
+    border-bottom: 1px solid white;
+    padding: 3px;
+}
+.menu li:last-of-type {
+    border: none;
+}
+.label:hover .menu {
+    display: block;
+}
+.menu li:hover {
+    background-color: lightgray;
+}
+/*
+.foot {
+    width: 25%;
+}
+*/
+@media(max-width: 40em) {
+    nav {
+        display: none;
+    }
+    .image {
+        display: none;
+    }
+    .contact {
+        display: none;
+    }
+    header .label {
+        display: block;
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 10;
+        border-left: 1px solid white;
+    }
+=======
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: sans-serif;
+}
+header {
+    background-color: maroon;
+    color: white;
+    padding: 5px;
+    display: inline-block;
+    width: 100%;
+}
+header .label {
+    display: none;
+}
+nav {
+    background-color: darkblue;
+    color: white;
+    border-top: 1px solid white;
+}
+ul {
+    padding: 0;
+}
+.label  {
+    padding: 10px 5px;
+    display: inline-block;
+    border-right: 1px solid white;
+}
+.label:hover {
+    background-color: gray;
+    cursor: pointer;
+}
+a {
+    display: block;
+    color: white;
+    text-decoration: none;
+}
+.menu {
+    position: absolute;
+    width: 100px;
+    top: 81px;
+    height: auto;
+    background-color: grey;
+    box-shadow: 2px 2px 2px black;
+    display: none;
+}
+.menu li {
+    border-bottom: 1px solid white;
+    padding: 3px;
+}
+.menu li:last-of-type {
+    border: none;
+}
+.label:hover .menu {
+    display: block;
+}
+.menu li:hover {
+    background-color: lightgray;
+}
+
+
+.contact {
+    text-align: right;
+    position: absolute;
+    right: 0;
+    top: 50px;
+    padding-right: 20px;
+} 
+.image {
+    margin-left: 0%;
+    width: 10%;
+
+    float: left;
+}
+h1 {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    width: 80%;
+    float: left;
+}
+body {
+    margin: 0;
+}
+
+label {
+    font-size: 15pt;
+    color: white;
+    cursor: pointer;
+}
+input {
+    display: none;
+} 
+.directions { 
+/*
+    position: absolute;
+    top: 100%;
+    right: 40%;
+*/
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+footer {
+    width: 100%;
+    text-align: left;
+    padding: 20px; 
+}  
+.label  {
+    padding: 10px 5px;
+    display: inline-block;
+    border-right: 1px solid white;
+}
+.label:hover {
+    background-color: gray;
+    cursor: pointer;
+}
+.menu {
+    position: absolute;
+    width: 100px;
+    top: 81px;
+    height: auto;
+    background-color: grey;
+    box-shadow: 2px 2px 2px black;
+    display: none;
+}
+.menu li {
+    border-bottom: 1px solid white;
+    padding: 3px;
+}
+.menu li:last-of-type {
+    border: none;
+}
+.label:hover .menu {
+    display: block;
+}
+.menu li:hover {
+    background-color: lightgray;
+}
+/*
+.foot {
+    width: 25%;
+}
+*/
+@media(max-width: 40em) {
+    nav {
+        display: none;
+    }
+    .image {
+        display: none;
+    }
+    .contact {
+        display: none;
+    }
+    header .label {
+        display: block;
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 10;
+        border-left: 1px solid white;
+    }
+>>>>>>> origin/master
+}

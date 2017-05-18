@@ -1,0 +1,56 @@
+<<<<<<< HEAD
+table {
+    width: 100%;
+    text-align: center;
+}
+.inventory {
+    position: relative;
+    height: 275px; 
+}
+.name {
+    font-size: 16pt;
+    font-family: sans-serif;
+    color: blue;
+    text-shadow: 1px 1px 2px black;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    text-align: center;
+}
+.used {
+    position: relative;
+    height: 200px; 
+}
+tr {
+    padding: 10px;
+}
+=======
+table {
+    width: 100%;
+    text-align: center;
+}
+.inventory {
+    position: relative;
+    height: 275px; 
+}
+.name {
+    font-size: 16pt;
+    font-family: sans-serif;
+    color: blue;
+    text-shadow: 1px 1px 2px black;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    text-align: center;
+}
+.used {
+    position: relative;
+    height: 200px; 
+}
+tr {
+    padding: 10px;
+}
+>>>>>>> origin/master
+/*<div class="service" id="serv2"><div class="name">Mobile Service</div></div>*/

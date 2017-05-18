@@ -1,0 +1,71 @@
+<<<<<<< HEAD
+main {
+    text-align: center;
+    width: 50%;
+}
+option {
+    margin: 0;
+}
+form {
+    float: left;
+    width: 600px;
+    background-color: grey;
+    border-radius: 10px;
+}
+select, input, textarea {
+    float: left;
+    display: block;
+}
+select, #range, #name, textarea {
+    width: 250px;
+}
+textarea {
+    height: 75px;
+}
+label {
+    font-size: 15pt;
+    color: black;
+    cursor: pointer;
+    float: left;
+    width: 250px;
+    clear: left;
+}
+#content {
+    text-align: center;
+}
+=======
+main {
+    text-align: center;
+    width: 50%;
+}
+option {
+    margin: 0;
+}
+form {
+    float: left;
+    width: 600px;
+    background-color: grey;
+    border-radius: 10px;
+}
+select, input, textarea {
+    float: left;
+    display: block;
+}
+select, #range, #name, textarea {
+    width: 250px;
+}
+textarea {
+    height: 75px;
+}
+label {
+    font-size: 15pt;
+    color: black;
+    cursor: pointer;
+    float: left;
+    width: 250px;
+    clear: left;
+}
+#content {
+    text-align: center;
+}
+>>>>>>> origin/master
